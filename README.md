@@ -23,3 +23,17 @@ Typlib is a meticulously curated, open-source font library initiated by the desi
 ## Mission
 
 Scape Agency, with its expertise in design and passion for community-driven projects, believes in the power of typography in conveying messages, evoking emotions, and shaping brands. With Typlib, we aim to democratize access to quality fonts, making the design more inclusive and diverse.
+
+
+## References
+
+### Libraries
+
+- https://github.com/ubuwaits/beautiful-web-type
+
+
+### Fonts
+
+- https://github.com/adobe-fonts/source-code-pro
+- https://github.com/adobe-fonts/adobe-blank
+- https://github.com/andreberg/Meslo-Font
